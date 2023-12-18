@@ -15,7 +15,6 @@
 
 <p align="center"><a href="https://github.com/maxcherednikov/portfolio" target="_blank">Мое портфолио</a></p>
 
-<p align="center"><a href="https://github.com/maxcherednikov/maxcherednikov/blob/main/assets/CV.pdf" target="_blank">Мое резюме</a></p>
 
 <h1 align="center"> Скиллы </h1>
 
