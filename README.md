@@ -1,5 +1,7 @@
 <h3 align="center"> Привет! Я начинающий инженер по тестированию </h3>
 
+![Header](https://github.com/ViktoriyaYarotskaya/ViktoriyaYarotskaya/blob/main/assets/1.png)
+
 ---
 
 ### :man_technologist: Обо мне:
@@ -28,8 +30,6 @@
 ![Charles](https://img.shields.io/badge/-Charles-2F4F4F?style=for-the-badge&logo=charles&logoColor=778899)
 
 
-
-- Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-MEXIKA93-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MEXIKA93) 
 ---
 
 ### 🤝 Социальные сети:
