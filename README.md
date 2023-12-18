@@ -13,7 +13,7 @@
 - :world_map: Люблю путешествовать
 - :game_die: Играю в настольные игры
 
-<p align="center"><a href="https://github.com/maxcherednikov/portfolio](https://github.com/maxcherednikov/Porfolio" target="_blank">Мое портфолио</a></p>
+<p align="center"><a href="[https://github.com/maxcherednikov/portfolio](https://github.com/maxcherednikov/Porfolio)" target="_blank">Мое портфолио</a></p>
 
 
 <h1 align="center"> Скиллы </h1>
